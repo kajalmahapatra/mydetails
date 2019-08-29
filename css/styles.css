@@ -1,0 +1,48 @@
+/***********************************************TAG Selector******************************************************/
+
+body {
+  background-color:#6e9086;
+  background-size: 100% 100%;
+  background-image: image(2019-07-03-20-10-04-869.jpg);
+}
+
+
+h1{
+  color: #293462;
+  text-shadow: 1px 1px black;
+}
+/*
+h2 {
+  color: #293462;
+  font-size: 40px;
+}*/
+
+h3 {
+  color: #293462;
+    text-shadow: 1px 1px black;
+}
+
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 6%;
+}
+
+/**********************************************CLASS Selector******************************************************/
+
+.circular{
+  border-radius: 20%;
+}
+
+.emoji:hover{
+  background-color: purple;
+}
+/***********************************************ID Selector*********************************************************/
+
+#heading{
+  color: #293462;
+  font-size: 40px;
+  text-shadow: 5px 5px 10px powderblue;
+}
